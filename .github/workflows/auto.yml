@@ -2,7 +2,7 @@ name: Juejin Sign In
 
 on:
   schedule:
-    - cron: "11 8 * * *" 
+    - cron: "18 * * * *" 
   workflow_dispatch:
 
 env:
