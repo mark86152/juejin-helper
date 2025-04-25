@@ -2,7 +2,7 @@ name: Juejin Sign In
 
 on:
   schedule:
-    - cron: "30 0 * * *" 
+     - cron: "50 0 * * *" # 北京时间上午08:30
   workflow_dispatch:
 
 env:
